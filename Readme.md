@@ -4,11 +4,14 @@ UISuperTableView
 This is a subclass of UITableView.
 
 It offers:
+
 * A blank page with a message telling users that there is no rows. By the way, you can customize the message.
 * A loading icon at the very beginning.
 
 ![Loading](https://github.com/tanin47/UISuperTableView/raw/master/loading.png)
+
 ![Empty](https://github.com/tanin47/UISuperTableView/raw/master/no_data.png)
+
 ![Normal](https://github.com/tanin47/UISuperTableView/raw/master/normal.png)
 
 
